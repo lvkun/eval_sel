@@ -1,5 +1,5 @@
 [
     {
-        "keys": ["alt+e"], "command": "evalsel"  
+        "keys": ["ctrl+alt+e"], "command": "evalsel"  
     }
 ]
