@@ -8,7 +8,9 @@ Download to your sublime package folder.
 
 ### Setting
 
+Just need to set the evalutor command for each language, like Python:
 
+        "Python" : "python -i -u"
 
 ### Current status
 
