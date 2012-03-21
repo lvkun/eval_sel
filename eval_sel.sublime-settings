@@ -1,4 +1,6 @@
 {
     "Python" : "python -i -u",
-    "Scheme" : "racket"
+    "Scheme" : "racket",
+    "Ruby" : "irb --noreadline --inf-ruby-mode",
+    "Javascript" : "node ./eval_sel/repl.js"
 }
