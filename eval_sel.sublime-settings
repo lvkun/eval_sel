@@ -1,0 +1,4 @@
+{
+    "Python" : "python -i -u",
+    "Scheme" : "racket"
+}
